@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">TSF Social Media Integration App</string>
+
+    <string name="facebook_app_id">YOUR FACEBOOK APP ID</string>
+    <string name="fb_login_protocol_scheme">YOUR FACEBOOK PROTOCOL SCHEME</string>
+
+    <string name="profile_image">Profile Image</string>
+    <string name="show_name">Name</string>
+    <string name="show_email">Email</string>
+    <string name="profile_name">Name</string>
+    <string name="profile_email">Email</string>
+    <string name="btn_logout">Logout</string>
+    <string name="credits_text">FOOTER TEXT</string>
+
+    <string name="Twitter_CONSUMER_KEY">YOUR TWITTER CONSUMER KEY</string>
+    <string name="Twitter_CONSUMER_SECRET">YOUR TWITTER SECRET KEY</string>
+
+</resources>
